@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bheemavarapuamar
 - 👀 I’m interested in ...software
-- 🌱 I’m currently learning ...java
+- 🌱 I’m currently learning ...java,python
 - 💞️ I’m looking to collaborate on ...any one
 - 📫 How to reach me ...contact
 
